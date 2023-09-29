@@ -1,0 +1,199 @@
+[
+    {
+    "name": "Firestorm Cafe & Books",
+    "price": " 10.95",
+    "review": "4",
+    "id": "202205P0015",
+    "isSale": true,
+    "isNew": true,
+    "image": "/assets/Product/New/18.jpg",
+    "isStocked": true,
+    "productNumber": "P0015",
+    "imageGallery": [
+      "/assets/Product/New/18.jpg",
+      "/assets/Product/New/16.jpg",
+      "/assets/Product/New/17.jpg",
+      "/assets/Product/New/28.jpg",
+      "/assets/Product/New/19.jpg"
+    ],
+    "colors": ["#c32148", "#0000ff", "#ace5ee", "#87cefa"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+  {
+    "name": "Coffee Sanctuary cafe",
+    "oldPrice": "$249.95",
+    "price": " 200.95",
+    "save": "1 save 1 %",
+    "review": "3",
+    "id": "202205P0016",
+    "isSale": false,
+    "isNew": true,
+    "image": "/assets/Product/New/13.jpg",
+    "isStocked": true,
+    "productNumber": "P0016",
+    "imageGallery": [
+      "/assets/Product/New/13.jpg",
+      "/assets/Product/New/25.jpg",
+      "/assets/Product/New/27.jpg",
+      "/assets/Product/New/28.jpg",
+      "/assets/Product/New/29.jpg"
+    ],
+    "colors": ["#45b1e8", "#002e63", "#ff00ff", "#4b0082", "#873260"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+{
+    "name": "Commonwealth Cafe",
+    "price": " 12.95",
+    "review": "3",
+    "id": "202205P0014",
+    "isSale": true,
+    "isNew": true,
+    "image": "/assets/Product/New/15.jpg",
+    "isStocked": true,
+    "productNumber": "P0014",
+    "imageGallery": [
+      "/assets/Product/New/15.jpg",
+      "/assets/Product/New/1.jpg",
+      "/assets/Product/New/2.jpg",
+      "/assets/Product/New/3.jpg",
+      "/assets/Product/New/4.jpg"
+    ],
+    "colors": ["#836953", "#cf3476", "#8e3a59", "#8db600"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+  {
+    "name": "Jumpstart Coffee House",
+    "oldPrice": "$249.95",
+    "price": " 200.95",
+    "save": "9 save  %",
+    "review": "30",
+    "id": "202205P0007",
+    "isSale": false,
+    "isNew": true,
+    "image": "/assets/Product/New/4.jpg",
+    "isStocked": true,
+    "productNumber": "P0007",
+    "imageGallery": [
+      "/assets/Product/New/4.jpg",
+      "/assets/Product/6.jpg",
+      "/assets/Product/7.jpg",
+      "/assets/Product/8.jpg",
+      "/assets/Product/9.jpg"
+    ],
+    "colors": ["#151B54", "#544E15", "#541545", "#154554"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+  {
+    "name": "Mug Today Is A Good Day",
+    "price": " 200.95",
+    "review": "13",
+    "id": "202205P0008",
+    "isSale": false,
+    "isNew": true,
+    "image": "/assets/Product/New/5.jpg",
+    "isStocked": true,
+    "productNumber": "P0008",
+    "imageGallery": [
+      "/assets/Product/New/5.jpg",
+      "/assets/Product/6.jpg",
+      "/assets/Product/7.jpg",
+      "/assets/Product/8.jpg",
+      "/assets/Product/9.jpg"
+    ],
+    "colors": ["#ff1a8c", "#00a8a8"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+  {
+    "name": "Detox body Cream",
+    "oldPrice": "$249.95",
+    "price": " 200.95",
+    "save": "1 save 1 %",
+    "review": "5",
+    "id": "202205P0009",
+    "isSale": true,
+    "isNew": false,
+    "image": "/assets/Product/6.jpg",
+    "isStocked": true,
+    "productNumber": "P0009",
+    "imageGallery": [
+      "/assets/Product/6.jpg",
+      "/assets/Product/5.jpg",
+      "/assets/Product/7.jpg",
+      "/assets/Product/8.jpg",
+      "/assets/Product/9.jpg"
+    ],
+    "colors": ["#adad00 ", "#2e2e00", "#a80000", "#c7a170"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+  {
+    "name": "Espresso Love",
+    "oldPrice": "$49.95",
+    "price": " 40.95",
+    "save": " save 10 %",
+    "review": "2",
+    "id": "202205P0003",
+    "isSale": false,
+    "isNew": true,
+    "image": "/assets/Product/3.jpg",
+    "isStocked": true,
+    "productNumber": "P0002",
+    "imageGallery": [
+      "/assets/Product/3.jpg",
+      "/assets/Product/6.jpg",
+      "/assets/Product/7.jpg",
+      "/assets/Product/8.jpg",
+      "/assets/Product/9.jpg"
+    ],
+    "colors": ["#862323", "#bb3385", "#838996"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+  {
+    "name": "Pack Mug + Framed Poster",
+    "price": " 200.95",
+    "review": "16",
+    "id": "202205P0010",
+    "isSale": true,
+    "isNew": true,
+    "image": "/assets/Product/New/26.jpg",
+    "isStocked": true,
+    "productNumber": "P0010",
+    "imageGallery": [
+      "/assets/Product/New/27.jpg",
+      "/assets/Product/6.jpg",
+      "/assets/Product/7.jpg",
+      "/assets/Product/8.jpg",
+      "/assets/Product/9.jpg"
+    ],
+    "colors": ["#862323", "#ffb224"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+  {
+    "name": "Map Room Tea Lounge",
+    "price": " 200.95",
+    "review": "15",
+    "id": "202205P0011",
+    "isSale": true,
+    "isNew": true,
+    "image": "/assets/Product/New/29.jpg",
+    "isStocked": true,
+    "productNumber": "P0011",
+    "imageGallery": [
+      "/assets/Product/New/29.jpg",
+      "/assets/Product/New/6.jpg",
+      "/assets/Product/New/7.jpg",
+      "/assets/Product/New/8.jpg",
+      "/assets/Product/New/9.jpg"
+    ],
+    "colors": ["#002e00", "#ffff24", "#000057"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  }
+]

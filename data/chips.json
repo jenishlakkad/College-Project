@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Map Room Tea Lounge",
+    "price": "200.95",
+    "review": "15",
+    "id": "202205P0011",
+    "isSale": true,
+    "isNew": true,
+    "image": "/assets/Product/New/30.jpg",
+    "isStocked": true,
+    "productNumber": "P0011",
+    "imageGallery": [
+      "/assets/Product/New/30.jpg",
+      "/assets/Product/New/6.jpg",
+      "/assets/Product/New/7.jpg",
+      "/assets/Product/New/8.jpg",
+      "/assets/Product/New/9.jpg"
+    ],
+    "colors": ["#002e00", "#ffff24", "#000057"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+  {
+    "name": "Map Room Tea Lounge",
+    "price": "200.95",
+    "review": "15",
+    "id": "202205P0011",
+    "isSale": true,
+    "isNew": true,
+    "image": "/assets/Product/New/29.jpg",
+    "isStocked": true,
+    "productNumber": "P0011",
+    "imageGallery": [
+      "/assets/Product/New/29.jpg",
+      "/assets/Product/New/6.jpg",
+      "/assets/Product/New/7.jpg",
+      "/assets/Product/New/8.jpg",
+      "/assets/Product/New/9.jpg"
+    ],
+    "colors": ["#002e00", "#ffff24", "#000057"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+  {
+    "name": "Hummingbird Printed Sweater ",
+    "oldPrice": "$35.90",
+    "price": "28.72",
+    "save": " save 20 %",
+    "review": "29",
+    "id": "202205P0001",
+    "isSale": true,
+    "isNew": false,
+    "image": "/assets/Product/New/2.jpg",
+    "isStocked": true,
+    "productNumber": "P0001",
+    "imageGallery": [
+      "/assets/Product/New/2.jpg",
+      "/assets/Product/New/14.jpg",
+      "/assets/Product/New/19.jpg",
+      "/assets/Product/New/18.jpg",
+      "/assets/Product/New/23.jpg"
+    ],
+    "colors": ["#581845", "#C70039", "#FFC300", "#DE3163"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+  {
+    "name": "Detox body Cream",
+    "oldPrice": "$249.95",
+    "price": "200.95",
+    "save": "1 save 1 %",
+    "review": "5",
+    "id": "202205P0009",
+    "isSale": true,
+    "isNew": false,
+    "image": "/assets/Product/6.jpg",
+    "isStocked": true,
+    "productNumber": "P0009",
+    "imageGallery": [
+      "/assets/Product/6.jpg",
+      "/assets/Product/5.jpg",
+      "/assets/Product/7.jpg",
+      "/assets/Product/8.jpg",
+      "/assets/Product/9.jpg"
+    ],
+    "colors": ["#adad00 ", "#2e2e00", "#a80000", "#c7a170"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+  {
+    "name": "Mug The Best Is Yet To Come",
+    "price": "11.90",
+    "review": "12",
+    "id": "202205P0002",
+    "isSale": true,
+    "isNew": false,
+    "image": "/assets/Product/New/7.jpg",
+    "isStocked": true,
+    "productNumber": "P0002",
+
+    "imageGallery": [
+      "/assets/Product/New/7.jpg",
+      "/assets/Product/New/8.jpg",
+      "/assets/Product/New/24.jpg",
+      "/assets/Product/New/25.jpg",
+      "/assets/Product/9.jpg"
+    ],
+    "colors": ["#581845", "#DE3163"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  },
+  {
+    "name": "Map Room Tea Lounge",
+    "price": "200.95",
+    "review": "15",
+    "id": "202205P0011",
+    "isSale": true,
+    "isNew": true,
+    "image": "/assets/Product/New/29.jpg",
+    "isStocked": true,
+    "productNumber": "P0011",
+    "imageGallery": [
+      "/assets/Product/New/29.jpg",
+      "/assets/Product/New/6.jpg",
+      "/assets/Product/New/7.jpg",
+      "/assets/Product/New/8.jpg",
+      "/assets/Product/New/9.jpg"
+    ],
+    "colors": ["#002e00", "#ffff24", "#000057"],
+    "content": " Natural fat from the cocoa bean; extra cocoa butter enhances chocolate's flavor and mouthfeel",
+    "description": "Integer molestie tellus vitae nibh auctor posuere. Sed vel mauris a ligula iaculis consequat. In aliquet tellus nunc, ut suscipit augue ultrices in. Cras iaculis ligula sed magna vestibulum, id suscipit justo commodo. Aliquam ullamcorper efficitur augue eget convallis. Praesent nec orci arcu. Nulla facilisi."
+  }
+]

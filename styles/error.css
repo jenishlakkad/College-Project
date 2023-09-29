@@ -1,0 +1,193 @@
+.error {
+  overflow: hidden;
+  background-image: url("../public/assets/errorbg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: block;
+  background-color: #fff;
+  height: 100vh;
+  align-items: center;
+  min-height: 100vh;
+  justify-content: center;
+  display: flex;
+}
+.error .error-text {
+  max-width: 663px;
+  margin-right: 49%;
+}
+.error-text h2 {
+  font-size: 70px;
+  margin-bottom: 12px;
+}
+.error-text h3 {
+  font-size: 50px;
+  font-weight: 600;
+  font-size: 40px;
+}
+.error-text h6 {
+  color: #fbb50a;
+  font-weight: 600;
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+.error-text p {
+  font-size: 20px;
+  line-height: 35px;
+  margin: 30px 0;
+}
+.error button {
+  padding: 14px 28px;
+  text-transform: capitalize;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: #fbb50a;
+  color: #000;
+  position: relative;
+  min-width: 180px;
+  min-height: 55px;
+  border-color: #fbb50a;
+  transition: 0.3s ease;
+  border: none;
+}
+.error button:hover {
+  background-color: #000;
+  color: #fff;
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* ----------- error ------------ */
+  .error .error-text {
+    max-width: 45%;
+  }
+  .error-text h2 {
+    font-size: 45px;
+    margin-bottom: 5px;
+  }
+  .error-text h3 {
+    font-size: 30px;
+  }
+  .error-text h6 {
+    font-size: 37px;
+    margin-bottom: 0px;
+  }
+  .error-text p {
+    font-size: 15px;
+    line-height: 23px;
+    margin: 12px 0;
+  }
+  .error button {
+    padding: 10px 19px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .error .error-text {
+    max-width: 45%;
+  }
+  .error-text h2 {
+    font-size: 45px;
+    margin-bottom: 5px;
+  }
+  .error-text h3 {
+    font-size: 30px;
+  }
+  .error-text h6 {
+    font-size: 37px;
+    margin-bottom: 0px;
+  }
+  .error-text p {
+    font-size: 15px;
+    line-height: 23px;
+    margin: 12px 0;
+  }
+  .error button {
+    padding: 10px 19px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .error .error-text {
+    max-width: 51%;
+    margin-right: 40%;
+  }
+  .error-text h2 {
+    font-size: 45px;
+    margin-bottom: 5px;
+  }
+  .error-text h3 {
+    font-size: 30px;
+  }
+  .error-text h6 {
+    font-size: 35px;
+    margin-bottom: 0px;
+  }
+  .error-text p {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 7px 0;
+  }
+  .error button {
+    padding: 10px 19px;
+  }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  /* ----------- error ------------ */
+
+  .error .error-text {
+    max-width: 51%;
+    margin-right: 44%;
+  }
+  .error-text h2 {
+    font-size: 40px;
+    margin-bottom: 0px;
+  }
+  .error-text h3 {
+    font-size: 25px;
+  }
+  .error-text h6 {
+    font-size: 28px;
+    margin-bottom: 0px;
+  }
+  .error-text p {
+    font-size: 15px;
+    line-height: 27px;
+    margin: 5px 0;
+  }
+  .error button {
+    padding: 6px 11px;
+    margin-top: 10px;
+    font-size: 16px;
+  }
+}
+@media (min-width: 320px) and (max-width: 575px) {
+  /* ----------- error ------------ */
+  .error {
+    overflow: hidden;
+    background-image: none;
+  }
+  .error .error-text {
+    max-width: 51%;
+    margin-right: 40%;
+  }
+  .error-text h2 {
+    font-size: 32px;
+    margin-bottom: 0px;
+  }
+  .error-text h3 {
+    font-size: 19px;
+  }
+  .error-text h6 {
+    font-size: 18px;
+    margin-bottom: 0px;
+  }
+  .error-text p {
+    font-size: 15px;
+    margin: 15px 0;
+    line-height: 25px;
+  }
+  .error button {
+    padding: 5px 8px;
+    margin-top: 10px;
+    font-size: 14px;
+    min-width: 100px;
+    min-height: 45px;
+  }
+}

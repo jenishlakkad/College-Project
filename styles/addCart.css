@@ -1,0 +1,236 @@
+/* ___________________________________________ cart _______________________________________ */
+.addtoCART .card {
+  border: 1px solid #eee;
+}
+.cbottom-totalgoods {
+  display: flex;
+  justify-content: space-between;
+}
+.imgBorderAddCart img {
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
+.cartTableCol {
+  display: flex;
+}
+.cart-width-main {
+  width: 50%;
+  padding: 0 25px;
+}
+.cart-sub-width {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+.cart-table__img {
+  display: inline-block;
+  vertical-align: top;
+  float: left;
+  width: 20%;
+}
+
+.ctable-info {
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 25px;
+  float: left;
+  width: 80%;
+}
+.cart-width-main {
+  width: 50%;
+}
+.cardHeadRow {
+  font-size: 18px;
+  line-height: 120%;
+  color: #222;
+  text-transform: capitalize;
+  border: none;
+  border-bottom: 1px solid #eee;
+  padding: 10px;
+  display: flex;
+}
+.cbottom {
+  padding: 25px;
+}
+.cartTableCol:first-of-type {
+  display: flex;
+}
+
+.cartTableImg {
+  width: 110px;
+  height: 110px;
+  margin-right: 28px;
+  display: inline-block;
+  vertical-align: top;
+}
+.cartTblInfo {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+  font-size: 10px !important;
+}
+.cardtitle {
+  font-size: 18px;
+  font-family: Tenor Sans;
+  text-transform: capitalize;
+  font-weight: 400;
+  color: #222;
+}
+.CardPrice span {
+  display: block;
+  margin-bottom: 10px;
+  color: #999;
+  font-size: 14px;
+  line-height: 100%;
+  -webkit-text-decoration-line: line-through;
+  text-decoration-line: line-through;
+  text-transform: capitalize;
+}
+.CardCountInput {
+  background: #f5f5f5;
+  border: 1px solid #eee;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  margin: 0 10px;
+}
+.ctable-row {
+  display: flex;
+  padding: 25px 0;
+  margin-bottom: 20px;
+}
+.ctable-row .counter {
+  width: 30px;
+  height: 30px;
+  padding: 4px 0;
+}
+.ctable-col:first-of-type {
+  display: flex;
+}
+.c-box {
+  display: flex;
+  align-items: center;
+}
+.counter-link {
+  background: #faf9ff;
+  border: 1px solid #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s linear;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.counter-link i {
+  font-size: 14px;
+}
+
+.c-input {
+  width: 60px;
+  height: 40px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  color: #222222;
+  text-align: center;
+}
+.cart-bottom__total {
+  background: #faf9ff;
+  border: 1px solid #eeeeee;
+  padding: 60px;
+}
+.ctableinfo-stock {
+  display: block;
+  font-size: 12px;
+  line-height: 170%;
+  text-transform: uppercase;
+  color: #ff3333;
+  margin-top: 10px;
+}
+.ctableinfo-num {
+  display: block;
+  font-size: 12px;
+  line-height: 170%;
+  color: #666666;
+}
+.ctable-price del {
+  display: block;
+  margin-bottom: 10px;
+  color: #999999;
+  font-size: 14px;
+  line-height: 100%;
+  -webkit-text-decoration-line: line-through;
+  text-decoration-line: line-through;
+  text-transform: capitalize;
+}
+.ctable-price {
+  color: #666666;
+  font-size: 18px;
+  line-height: 100%;
+}
+
+.ctable-info .title {
+  font-size: 23px;
+  color: #000;
+}
+.cbottom-totalgoods {
+  display: flex;
+  justify-content: space-between;
+}
+.cbottom-totalpromo {
+  display: flex;
+  justify-content: space-between;
+}
+.cbottom-totalnum {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cgood {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.cgood-price {
+  font-size: 18px;
+  font-weight: 500;
+  width: 15%;
+}
+.sh_page li {
+  list-style: none !important;
+}
+.sh_page {
+  background-color: #f8f9fae7 !important;
+}
+
+.productDescription .accordion-button::after {
+  background-image: none;
+  content: "\f107";
+  font-family: Fontawesome;
+}
+
+.product-additional-info .productBtn .btn-primary:disabled {
+  color: #fff;
+  background-color: #fbb50a;
+  border-color: #fbb50a;
+}
+.processCheckOut {
+  background-color: #fbb50a;
+  text-transform: capitalize;
+  font-size: 16px;
+  transition: 0.3s ease;
+  border-radius: 5px;
+  font-weight: 500;
+  padding: 9px 12px 12px 12px;
+  border: none;
+  color: #fff;
+}
+.processCheckOut a {
+  color: #fff;
+}
+.processCheckOut:hover {
+  background-color: #000;
+}

@@ -1,0 +1,119 @@
+.checkout .nav-tabs {
+  border-bottom: 0px;
+}
+.checkout .nav-tabs .nav-link.active {
+  background-color: transparent;
+  border-color: transparent;
+}
+.checkout li button {
+  background-color: transparent;
+}
+.checkout .nav-tabs .nav-link:focus,
+.nav-tabs .nav-link:hover {
+  border-color: transparent;
+}
+.checkout li button:focus {
+  outline: 0;
+}
+.checkout li button {
+  font-size: 14px;
+  font-weight: 600;
+  padding: 0;
+}
+.checkout .card {
+  border: 0;
+}
+.checkout li button:focus-visible {
+  outline: 0;
+}
+.checkout .accordion-header button {
+  padding: 10px 20px;
+  font-weight: 400;
+  font-size: 17px;
+}
+.checkout .accordion-header button:focus {
+  box-shadow: none;
+  border-color: rgba(0, 0, 0, 0.125);
+}
+#checkout .nav-tabs .nav-link.active {
+  color: #fbb50a;
+}
+#checkout .nav-tabs .nav-link {
+  color: #000;
+  padding-right: 15px;
+  font-size: 16px;
+  font-weight: 400;
+}
+.checkout .accordion-header button:hover {
+  color: #fbb50a !important;
+}
+.checkout .accordion-header {
+  border-bottom: 1px solid #dee2e6;
+}
+.checkout .accordion-button:not(.collapsed) {
+  color: #212529;
+  background-color: transparent;
+}
+#checkout label {
+  font-size: 14px;
+  margin-bottom: 0.5rem;
+}
+#checkout .form-control {
+  box-shadow: none;
+}
+#checkout .input-group-text {
+  padding: 0;
+  background-color: transparent;
+  border: none;
+}
+#checkout .form-check.radio label {
+  line-height: 0px;
+  font-size: 15px;
+  margin-right: 15px;
+}
+#checkout .mb_1rem {
+  margin-bottom: 1rem;
+}
+#checkout .checkout-check {
+  margin-left: 6px;
+  font-size: 13px;
+  margin-bottom: 0;
+  line-height: 20px;
+}
+#checkout .input-group .form-check-input {
+  margin-top: 0;
+}
+.checkout-signin label {
+  font-size: 12px;
+}
+.checkout-signin .forgot_password a {
+  font-weight: 600 !important;
+}
+.checkout .checkout-check-sign {
+  margin-left: 6px;
+  font-size: 12px;
+}
+.shippingmethod input {
+  margin-top: 4px;
+}
+.payment input {
+  margin-top: 4px;
+}
+.final_payment {
+  position: sticky;
+  top: 87px;
+}
+.shippingmethod .form-check label {
+  margin-right: 15px;
+}
+.payment .form-check-label {
+  margin-right: 15px;
+}
+.forgot_password a {
+  color: #000;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+.forgot_password a:hover {
+  color: #fbb50a;
+}

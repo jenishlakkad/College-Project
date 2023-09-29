@@ -1,0 +1,90 @@
+/* ----------------- wishlist -----------------  */
+.w_product_name a {
+  font-size: 20px;
+  color: #000;
+  transition: 0.3s ease;
+}
+.w_product_name a:hover {
+  color: #fbb50a;
+}
+.wishlist i::before {
+  fill: #6d9900;
+}
+.static-icon {
+  margin-left: 10px;
+}
+@media (min-width: 320px) and (max-width: 575px) {
+  .w_product_name {
+    font-size: 16px;
+  }
+  .wishlist .f_13 span {
+    font-size: 14px;
+  }
+  .wishlist .stock {
+    font-size: 14px;
+  }
+  .wishlist .prodPrice .price {
+    font-size: 16px;
+  }
+
+  .wishlist .prodPrice .oldPrice {
+    font-size: 14px;
+    margin-left: 0;
+  }
+  .wishlist .row {
+    margin-bottom: 8px;
+  }
+}
+/* ----------------- wnd wishlist ----------------- */
+/*========================================================================  COMPARE  ====================================================================================*/
+.c_cart_btn a {
+  color: #fff;
+}
+.c_cart_btn:hover a {
+  color: #fff;
+}
+#compare_page .table {
+  border: 1px solid #f6f6f6;
+  text-transform: capitalize;
+  color: #222;
+  background-color: #fff;
+}
+#compare_page .table thead .th-compare td {
+  font-size: 14px;
+  border-right: 1px solid #f6f6f6;
+}
+#compare_page .table thead th {
+  vertical-align: bottom;
+  border-bottom: none;
+  border-top: 1px solid #f6f6f6;
+}
+#compare_page .table td,
+#compare_page .table th {
+  border-top: 1px solid #f6f6f6;
+  border-right: 1px solid #f6f6f6;
+}
+#compare_page .fst-image {
+  height: 250px;
+}
+.table-responsive td,
+.table-responsive tr {
+  border-width: 1px !important;
+}
+#table-compare td span {
+  max-width: 250px !important;
+}
+.table > :not(:first-child) {
+  border-top: 1px solid gainsboro !important;
+}
+.font-weight-bold {
+  font-weight: 700;
+}
+.compareConShopping a {
+  color: #000;
+  font-size: 18px;
+  transition: 0.3s ease;
+}
+.compareConShopping a:hover {
+  color: #fbb50a;
+}
+/*======================================================================== / COMPARE  ====================================================================================*/
